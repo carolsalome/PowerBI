@@ -25,5 +25,7 @@ Table Description: Vehicles details table
 Table columns: ID Veículo (vehicle ID), Tipo (type), Status
 Data processing: I only changed the [Type] column so that the names had the first letter capitalized because it looks more visually beautiful.
 
-INDICADORES DO DASHBOARD
+
+DASHBOARD
 Total Orders, Orders delivered on time, Orders delivered after the deadline, Orders by State in map view, Vehicles available, Vehicles in Use, Fleet of vehicles by type, Average delivery time over time, Average inventory per year
+![dashboard pronto](https://github.com/user-attachments/assets/71886e71-fc4e-44eb-bc66-ab252d893bde)
